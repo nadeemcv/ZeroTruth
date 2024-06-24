@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ZeroTruth/static/css/main.65e9d2de.css",
+    "main.js": "/ZeroTruth/static/js/main.4dfcf293.js",
+    "static/js/453.5b31144c.chunk.js": "/ZeroTruth/static/js/453.5b31144c.chunk.js",
+    "index.html": "/ZeroTruth/index.html",
+    "main.65e9d2de.css.map": "/ZeroTruth/static/css/main.65e9d2de.css.map",
+    "main.4dfcf293.js.map": "/ZeroTruth/static/js/main.4dfcf293.js.map",
+    "453.5b31144c.chunk.js.map": "/ZeroTruth/static/js/453.5b31144c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65e9d2de.css",
+    "static/js/main.4dfcf293.js"
+  ]
+}
